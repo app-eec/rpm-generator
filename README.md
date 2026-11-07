@@ -1,2 +1,2 @@
-# rpm-generator
+# rpm generator
 Buat Rencana Pembelajaran Mendalam
